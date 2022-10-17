@@ -14,15 +14,15 @@ function App() {
             <h1 className="inter text-paragraph font-[400] desk:text-[15px] mobile:text-[13x] desk:mt-10 mobile:mt-5 text-center">Discover the benefits of data analytics and make<br/>better decisions regarding revenue, customer<br/>experience and overall efficiency.</h1>
             <div className="desk:w-[65%] mobile:w-[100%] h-[15%] flex flex-row desk:mt-10 mobile:mt-5 justify-between">
               <div className="desk:w-[25%] mobile:w-[33%] h-[100%] flex flex-col justify-end">
-                <h1 className="inter font-[700] text-white desktext-2xl mobile:text-lg mobile:text-center desk:text-start">10k+</h1>
+                <h1 className="inter font-[700] text-white desk:text-2xl mobile:text-lg mobile:text-center desk:text-start">10k+</h1>
                 <h1 className="deca text-stat-heading font-[400] mobile:text-[9px] desk:text-[12px] desk:text-start mobile:text-center">COMPANIES</h1>
               </div>
               <div className="desk:w-[25%] mobile:w-[33%] h-[100%] flex flex-col justify-end">
-                <h1 className="inter font-[700] text-white desktext-2xl mobile:text-lg mobile:text-center desk:text-start">314</h1>
+                <h1 className="inter font-[700] text-white desk:text-2xl mobile:text-lg mobile:text-center desk:text-start">314</h1>
                 <h1 className="deca text-stat-heading font-[400] mobile:text-[9px] desk:text-[12px] desk:text-start mobile:text-center">TEMPLATES</h1>
               </div>
               <div className="desk:w-[30%] mobile:w-[33%] h-[100%] flex flex-col justify-end">
-                <h1 className="inter font-[700] text-white desktext-2xl mobile:text-lg text-center">12M+</h1>
+                <h1 className="inter font-[700] text-white desk:text-2xl mobile:text-lg text-center">12M+</h1>
                 <h1 className="deca text-stat-heading font-[400] mobile:text-[9px] desk:text-[12px] text-center">QUERIES</h1>
               </div>
             </div>
