@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.deca {
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.inter {
+    font-family: 'Inter', sans-serif;
+}
+
+.bg-img {
+    background: url("./image-header-desktop.jpg");
+    min-height: 10em;
+    width: 540px;
+    min-width: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0 10px 10px 0;
+    overflow: hidden;
+}
+
+.overlay {
+    background: hsl(277deg, 100%, 45%, 0.42);
+    height: 100%;
+}
+
+.overlay-2 {
+    background: hsla(293deg, 42%, 35%, 0.24);
+    height: 100%;
+    mix-blend-mode: color-burn;
+}
+
+@media only screen and (max-width: 900px) {
+    .bg-img {
+        height: 290px;
+        width: 400px;
+        background: url('image-header-mobile.jpg') no-repeat;
+        background-size: contain;
+    }
+}
