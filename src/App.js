@@ -14,16 +14,16 @@ function App() {
             <h1 className="inter text-paragraph font-[400] desk:text-[15px] mobile:text-[13x] desk:mt-10 mobile:mt-5 mobile:text-center">Discover the benefits of data analytics and make<br/>better decisions regarding revenue, customer<br/>experience and overall efficiency.</h1>
             <div className="w-[80%] h-[15%] flex flex-row desk:mt-10 mobile:mt-5 justify-between mobile:">
               <div className="desk:w-[25%] mobile:w-[33%] h-[100%] flex flex-col justify-end">
-                <h1 className="inter font-[700] text-white desktext-2xl mobile:text-lg text-center">10k+</h1>
-                <h1 className="deca text-stat-heading font-[400] mobile:text-[9px] desk:text-[12px] text-center">COMPANIES</h1>
+                <h1 className="inter font-[700] text-white desktext-2xl mobile:text-lg mobile:text-center">10k+</h1>
+                <h1 className="deca text-stat-heading font-[400] mobile:text-[9px] desk:text-[12px] mobile:text-center">COMPANIES</h1>
               </div>
               <div className="desk:w-[25%] mobile:w-[33%] h-[100%] flex flex-col justify-end">
-                <h1 className="inter font-[700] text-white desktext-2xl mobile:text-lg text-center">314</h1>
-                <h1 className="deca text-stat-heading font-[400] mobile:text-[9px] desk:text-[12px] text-center">TEMPLATES</h1>
+                <h1 className="inter font-[700] text-white desktext-2xl mobile:text-lg mobile:text-center">314</h1>
+                <h1 className="deca text-stat-heading font-[400] mobile:text-[9px] desk:text-[12px] mobile:text-center">TEMPLATES</h1>
               </div>
               <div className="desk:w-[25%] mobile:w-[33%] h-[100%] flex flex-col justify-end">
-                <h1 className="inter font-[700] text-white desktext-2xl mobile:text-lg text-center">12M+</h1>
-                <h1 className="deca text-stat-heading font-[400] mobile:text-[9px] desk:text-[12px] text-center">QUERIES</h1>
+                <h1 className="inter font-[700] text-white desktext-2xl mobile:text-lg mobile:text-center">12M+</h1>
+                <h1 className="deca text-stat-heading font-[400] mobile:text-[9px] desk:text-[12px] mobile:text-center">QUERIES</h1>
               </div>
             </div>
           </div>
